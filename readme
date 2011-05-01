@@ -1,9 +1,22 @@
-fishbones
+---------------------------------------------------
+fishbones 0.2
 
-php micro framework
+php minimalist framework
 
-- database
-- debug logging
-- 
+---------------------------------------------------
+Description
 
-changed
+   minimalist framework for webservices
+
+   features:
+   - database
+   - debug logging
+   - webservices
+ 
+----------------------------------------------------
+Progress status
+
+   This is not being maintained anymore, since I am
+   moving from php to higher quality languages.
+
+----------------------------------------------------
