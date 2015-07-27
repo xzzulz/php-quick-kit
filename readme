@@ -1,10 +1,9 @@
----------------------------------------------------
-fishbones 0.2
+
+# fishbones 0.2
 
 php minimalist framework
 
----------------------------------------------------
-Description
+## Description
 
    minimalist framework for webservices
 
@@ -13,11 +12,10 @@ Description
    - debug logging
    - webservices
  
-----------------------------------------------------
-Progress status
+## Progress status
 
    Created and mostly last updated on 2009.
    Not being maintained anymore, since I am
    moving from php, to higher quality languages.
 
-----------------------------------------------------
+
